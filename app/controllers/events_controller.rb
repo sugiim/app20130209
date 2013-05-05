@@ -7,8 +7,13 @@ class EventsController < ApplicationController
     end
     
     def show
-        @event = Event.find(params[:event_id])
-        @infos = Info.all(:order => "info_order asc")
+        @event = Event.where(team_id: params[:team_id]).where(event_id: params[:event_id]).first
+        
+        @infos = Info.where(team_id: params[:team_id]).order("info_order")
+        
+        @members = Member.where(team_id: params[:team_id]).where(event_id: params[:event_id])
+        
+        
     end
     
     def new

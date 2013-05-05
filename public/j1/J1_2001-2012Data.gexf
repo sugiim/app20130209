@@ -1,0 +1,2994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+  <meta lastmodifieddate="2013-05-05">
+    <creator>Gephi 0.8</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" timeformat="double" mode="dynamic">
+    <nodes>
+      <node id="湘南" label="湘南">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="133.77625" y="-795.232"></viz:position>
+        <viz:color r="0" g="255" b="51"></viz:color>
+      </node>
+      <node id="福岡" label="福岡">
+        <attvalues></attvalues>
+        <viz:size value="5.0034842"></viz:size>
+        <viz:position x="-717.3328" y="360.3048"></viz:position>
+        <viz:color r="0" g="51" b="255"></viz:color>
+      </node>
+      <node id="東京Ｖ" label="東京Ｖ">
+        <attvalues></attvalues>
+        <viz:size value="6.341463"></viz:size>
+        <viz:position x="710.91656" y="644.15497"></viz:position>
+        <viz:color r="0" g="153" b="0"></viz:color>
+      </node>
+      <node id="甲府" label="甲府">
+        <attvalues></attvalues>
+        <viz:size value="7.6794424"></viz:size>
+        <viz:position x="-905.3505" y="128.12527"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="鳥栖" label="鳥栖">
+        <attvalues></attvalues>
+        <viz:size value="9.686411"></viz:size>
+        <viz:position x="-257.41925" y="877.65735"></viz:position>
+        <viz:color r="0" g="204" b="255"></viz:color>
+      </node>
+      <node id="大分" label="大分">
+        <attvalues></attvalues>
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="754.01196" y="203.45119"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="札幌" label="札幌">
+        <attvalues></attvalues>
+        <viz:size value="14.034843"></viz:size>
+        <viz:position x="364.4445" y="420.74457"></viz:position>
+        <viz:color r="204" g="0" b="51"></viz:color>
+      </node>
+      <node id="千葉" label="千葉">
+        <attvalues></attvalues>
+        <viz:size value="16.376307"></viz:size>
+        <viz:position x="637.2323" y="-90.83987"></viz:position>
+        <viz:color r="255" g="255" b="0"></viz:color>
+      </node>
+      <node id="山形" label="山形">
+        <attvalues></attvalues>
+        <viz:size value="21.728222"></viz:size>
+        <viz:position x="-389.59042" y="-459.9569"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="京都" label="京都">
+        <attvalues></attvalues>
+        <viz:size value="27.749128"></viz:size>
+        <viz:position x="455.79916" y="-343.5201"></viz:position>
+        <viz:color r="204" g="0" b="204"></viz:color>
+      </node>
+      <node id="仙台" label="仙台">
+        <attvalues></attvalues>
+        <viz:size value="39.79094"></viz:size>
+        <viz:position x="-545.9586" y="41.40585"></viz:position>
+        <viz:color r="255" g="255" b="0"></viz:color>
+      </node>
+      <node id="Ｃ大阪" label="Ｃ大阪">
+        <attvalues></attvalues>
+        <viz:size value="51.16376"></viz:size>
+        <viz:position x="-487.24164" y="-195.93002"></viz:position>
+        <viz:color r="255" g="0" b="204"></viz:color>
+      </node>
+      <node id="Ｆ東京" label="Ｆ東京">
+        <attvalues></attvalues>
+        <viz:size value="53.83972"></viz:size>
+        <viz:position x="232.05844" y="-407.62753"></viz:position>
+        <viz:color r="51" g="0" b="204"></viz:color>
+      </node>
+      <node id="新潟" label="新潟">
+        <attvalues></attvalues>
+        <viz:size value="56.850174"></viz:size>
+        <viz:position x="113.78617" y="-221.44934"></viz:position>
+        <viz:color r="255" g="153" b="51"></viz:color>
+      </node>
+      <node id="大宮" label="大宮">
+        <attvalues></attvalues>
+        <viz:size value="57.519165"></viz:size>
+        <viz:position x="-78.701805" y="-112.13842"></viz:position>
+        <viz:color r="255" g="153" b="51"></viz:color>
+      </node>
+      <node id="神戸" label="神戸">
+        <attvalues></attvalues>
+        <viz:size value="60.86411"></viz:size>
+        <viz:position x="-332.83307" y="225.56804"></viz:position>
+        <viz:color r="153" g="0" b="0"></viz:color>
+      </node>
+      <node id="柏" label="柏">
+        <attvalues></attvalues>
+        <viz:size value="64.20906"></viz:size>
+        <viz:position x="-159.30824" y="405.03018"></viz:position>
+        <viz:color r="255" g="255" b="0"></viz:color>
+      </node>
+      <node id="広島" label="広島">
+        <attvalues></attvalues>
+        <viz:size value="64.87805"></viz:size>
+        <viz:position x="-259.06827" y="-271.28378"></viz:position>
+        <viz:color r="204" g="0" b="204"></viz:color>
+      </node>
+      <node id="横浜FM" label="横浜FM">
+        <attvalues></attvalues>
+        <viz:size value="66.88502"></viz:size>
+        <viz:position x="72.60926" y="485.03204"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="浦和" label="浦和">
+        <attvalues></attvalues>
+        <viz:size value="68.55749"></viz:size>
+        <viz:position x="156.36789" y="272.822"></viz:position>
+        <viz:color r="204" g="0" b="51"></viz:color>
+      </node>
+      <node id="清水" label="清水">
+        <attvalues></attvalues>
+        <viz:size value="72.23693"></viz:size>
+        <viz:position x="351.19836" y="-141.94109"></viz:position>
+        <viz:color r="255" g="153" b="0"></viz:color>
+      </node>
+      <node id="磐田" label="磐田">
+        <attvalues></attvalues>
+        <viz:size value="73.24042"></viz:size>
+        <viz:position x="-290.46054" y="-21.011086"></viz:position>
+        <viz:color r="0" g="204" b="255"></viz:color>
+      </node>
+      <node id="名古屋" label="名古屋">
+        <attvalues></attvalues>
+        <viz:size value="80.9338"></viz:size>
+        <viz:position x="375.53973" y="128.01805"></viz:position>
+        <viz:color r="204" g="0" b="0"></viz:color>
+      </node>
+      <node id="鹿島" label="鹿島">
+        <attvalues></attvalues>
+        <viz:size value="80.9338"></viz:size>
+        <viz:position x="-31.799665" y="-405.06436"></viz:position>
+        <viz:color r="204" g="0" b="0"></viz:color>
+      </node>
+      <node id="川崎Ｆ" label="川崎Ｆ">
+        <attvalues></attvalues>
+        <viz:size value="91.63763"></viz:size>
+        <viz:position x="128.43393" y="9.786735"></viz:position>
+        <viz:color r="0" g="153" b="255"></viz:color>
+      </node>
+      <node id="Ｇ大阪" label="Ｇ大阪">
+        <attvalues></attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-91.62672" y="150.37218"></viz:position>
+        <viz:color r="0" g="102" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="湘南" target="山形" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="京都" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="仙台" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="Ｃ大阪">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="Ｆ東京">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="新潟" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="大宮">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="神戸" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="広島">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="横浜FM">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="浦和" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="清水" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="磐田" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="名古屋">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="鹿島">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="川崎Ｆ" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="湘南" target="Ｇ大阪" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="甲府" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="山形" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="Ｃ大阪">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="新潟">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="大宮" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="神戸" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="柏" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="広島" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="横浜FM" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="浦和">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="清水" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="磐田" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="名古屋" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="鹿島">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="川崎Ｆ" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="福岡" target="Ｇ大阪" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="札幌" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="千葉" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="Ｆ東京" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="新潟" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="大宮">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="神戸">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="柏" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="横浜FM" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="浦和" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="清水" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="磐田" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="名古屋" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="鹿島">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="川崎Ｆ">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="東京Ｖ" target="Ｇ大阪" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="福岡" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="山形" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="仙台">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="Ｃ大阪" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="新潟" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="大宮" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="神戸" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="柏" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="広島">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="横浜FM">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="浦和" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="清水">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="磐田">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="名古屋" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="鹿島" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="川崎Ｆ" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="甲府" target="Ｇ大阪" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="札幌" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="仙台" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="Ｃ大阪" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="Ｆ東京" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="新潟" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="大宮">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="神戸" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="柏" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="広島" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="横浜FM">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="浦和" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="清水">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="磐田" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="名古屋">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="鹿島" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="川崎Ｆ" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鳥栖" target="Ｇ大阪" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="東京Ｖ" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="札幌" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="千葉" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="京都" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="Ｆ東京">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="新潟" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="大宮" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="神戸" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="柏" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="横浜FM" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="浦和" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="清水" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="磐田" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="名古屋" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="鹿島">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="川崎Ｆ">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大分" target="Ｇ大阪" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="東京Ｖ" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="鳥栖" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="大分" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="千葉" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="京都">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="仙台" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="Ｃ大阪">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="Ｆ東京">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="新潟" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="大宮" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="神戸" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="柏" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="広島">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="横浜FM" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="浦和" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="清水" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="磐田" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="名古屋" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="川崎Ｆ" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="札幌" target="Ｇ大阪" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="東京Ｖ" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="大分" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="札幌" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="山形">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="京都" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="Ｆ東京" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="新潟" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="大宮" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="神戸" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="柏" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="広島" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="横浜FM" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="浦和" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="清水" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="磐田" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="名古屋" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="鹿島" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="千葉" target="川崎Ｆ" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="湘南" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="福岡" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="甲府" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="大分">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="千葉" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="京都" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="仙台" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="Ｃ大阪" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="Ｆ東京" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="新潟" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="大宮" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="神戸" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="柏" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="広島" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="横浜FM" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="浦和" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="清水" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="磐田" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="名古屋">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="鹿島" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="山形" target="Ｇ大阪" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="湘南" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="東京Ｖ">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="大分" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="札幌" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="千葉" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="山形" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="仙台" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="Ｃ大阪">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="Ｆ東京" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="新潟" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="大宮" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="神戸" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="柏" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="広島" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="横浜FM" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="浦和" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="清水" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="磐田" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="名古屋" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="鹿島" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="川崎Ｆ" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="京都" target="Ｇ大阪" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="湘南" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="福岡" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="甲府" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="鳥栖" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="札幌" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="山形" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="京都" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="Ｃ大阪" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="Ｆ東京" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="新潟" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="大宮" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="神戸" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="柏" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="広島" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="横浜FM" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="浦和" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="清水" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="磐田" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="名古屋" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="鹿島" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="川崎Ｆ" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="仙台" target="Ｇ大阪" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="湘南" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="福岡" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="甲府" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="鳥栖" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="札幌" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="山形" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="京都" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="仙台" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="Ｆ東京" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="新潟" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="大宮" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="神戸" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="柏" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="広島" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="横浜FM" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="浦和" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="清水" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="磐田" weight="21.0">
+        <attvalues>
+          <attvalue for="weight" value="21.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="名古屋" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="鹿島" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="川崎Ｆ" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｃ大阪" target="Ｇ大阪" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="湘南" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="東京Ｖ" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="鳥栖" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="大分" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="札幌" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="千葉" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="山形" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="京都" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="仙台" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="Ｃ大阪" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="新潟" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="大宮" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="神戸" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="柏" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="広島" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="横浜FM" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="浦和" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="清水" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="磐田" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="名古屋" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="鹿島" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="川崎Ｆ" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｆ東京" target="Ｇ大阪" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="湘南" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="福岡" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="甲府">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="大分">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="札幌" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="千葉" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="山形" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="京都" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="仙台" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="Ｃ大阪" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="Ｆ東京" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="大宮" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="神戸" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="柏" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="広島" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="横浜FM" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="浦和" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="清水" weight="17.0">
+        <attvalues>
+          <attvalue for="weight" value="17.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="磐田" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="名古屋" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="鹿島" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="川崎Ｆ" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="新潟" target="Ｇ大阪" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="湘南" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="東京Ｖ" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="甲府" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="鳥栖" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="大分" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="札幌" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="千葉" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="山形" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="京都" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="仙台" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="Ｃ大阪" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="Ｆ東京" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="新潟" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="神戸" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="柏" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="広島" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="横浜FM" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="浦和" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="清水" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="磐田" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="名古屋" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="鹿島" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="川崎Ｆ" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="大宮" target="Ｇ大阪" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="湘南" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="福岡" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="東京Ｖ" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="甲府" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="大分" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="札幌" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="千葉" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="山形" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="京都" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="仙台" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="Ｃ大阪" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="Ｆ東京" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="新潟" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="大宮" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="柏" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="広島" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="横浜FM" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="浦和" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="清水" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="磐田" weight="17.0">
+        <attvalues>
+          <attvalue for="weight" value="17.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="名古屋" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="鹿島" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="川崎Ｆ" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="神戸" target="Ｇ大阪" weight="19.0">
+        <attvalues>
+          <attvalue for="weight" value="19.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="福岡" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="東京Ｖ" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="甲府" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="鳥栖" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="大分" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="札幌" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="千葉" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="山形" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="京都" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="仙台" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="Ｃ大阪" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="Ｆ東京" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="新潟" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="大宮" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="神戸" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="広島" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="横浜FM" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="浦和" weight="17.0">
+        <attvalues>
+          <attvalue for="weight" value="17.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="清水" weight="20.0">
+        <attvalues>
+          <attvalue for="weight" value="20.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="磐田" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="名古屋" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="鹿島" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="川崎Ｆ" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="柏" target="Ｇ大阪" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="湘南" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="福岡">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="甲府" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="鳥栖" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="大分" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="札幌" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="千葉" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="山形" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="京都" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="仙台" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="Ｃ大阪" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="Ｆ東京" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="新潟" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="大宮" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="神戸" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="柏" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="横浜FM" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="浦和" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="清水" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="磐田" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="名古屋" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="鹿島" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="川崎Ｆ" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="広島" target="Ｇ大阪" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="湘南" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="福岡" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="東京Ｖ" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="甲府" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="鳥栖">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="大分" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="札幌" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="千葉" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="山形" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="京都" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="仙台" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="Ｃ大阪" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="Ｆ東京" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="新潟" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="大宮" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="神戸" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="柏" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="広島" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="浦和" weight="21.0">
+        <attvalues>
+          <attvalue for="weight" value="21.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="清水" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="磐田" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="名古屋" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="鹿島" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="川崎Ｆ" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="横浜FM" target="Ｇ大阪" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="湘南" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="福岡" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="東京Ｖ" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="甲府" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="鳥栖" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="大分">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="札幌" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="千葉" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="山形" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="京都" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="仙台" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="Ｃ大阪" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="Ｆ東京" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="新潟" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="大宮" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="神戸" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="柏" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="広島" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="横浜FM" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="清水" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="磐田" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="名古屋" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="鹿島" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="川崎Ｆ" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="浦和" target="Ｇ大阪" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="湘南" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="福岡" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="東京Ｖ" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="甲府" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="鳥栖" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="大分" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="札幌" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="千葉" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="山形" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="京都" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="仙台" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="Ｃ大阪" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="Ｆ東京" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="新潟" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="大宮" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="神戸" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="柏" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="広島" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="横浜FM" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="浦和" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="磐田" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="名古屋" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="鹿島" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="川崎Ｆ" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="清水" target="Ｇ大阪" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="湘南" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="福岡" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="東京Ｖ" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="甲府" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="鳥栖" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="大分" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="札幌" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="千葉" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="山形" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="京都" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="仙台" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="Ｃ大阪" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="Ｆ東京" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="新潟" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="大宮" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="神戸" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="柏" weight="20.0">
+        <attvalues>
+          <attvalue for="weight" value="20.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="広島" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="横浜FM" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="浦和" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="清水" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="名古屋" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="鹿島" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="川崎Ｆ" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="磐田" target="Ｇ大阪" weight="17.0">
+        <attvalues>
+          <attvalue for="weight" value="17.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="湘南" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="福岡" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="東京Ｖ">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="甲府" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="鳥栖" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="大分" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="札幌" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="千葉" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="山形" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="京都" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="仙台" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="Ｃ大阪" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="Ｆ東京" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="新潟" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="大宮" weight="18.0">
+        <attvalues>
+          <attvalue for="weight" value="18.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="神戸" weight="19.0">
+        <attvalues>
+          <attvalue for="weight" value="19.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="柏" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="広島" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="横浜FM" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="浦和" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="清水" weight="20.0">
+        <attvalues>
+          <attvalue for="weight" value="20.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="磐田" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="鹿島" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="川崎Ｆ" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="名古屋" target="Ｇ大阪" weight="20.0">
+        <attvalues>
+          <attvalue for="weight" value="20.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="湘南" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="福岡" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="東京Ｖ" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="甲府">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="大分" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="札幌" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="千葉" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="山形" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="京都" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="仙台" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="Ｃ大阪" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="Ｆ東京" weight="20.0">
+        <attvalues>
+          <attvalue for="weight" value="20.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="新潟" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="大宮" weight="15.0">
+        <attvalues>
+          <attvalue for="weight" value="15.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="神戸" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="柏" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="広島" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="横浜FM" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="浦和" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="清水" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="磐田" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="名古屋" weight="20.0">
+        <attvalues>
+          <attvalue for="weight" value="20.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="川崎Ｆ" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="鹿島" target="Ｇ大阪" weight="17.0">
+        <attvalues>
+          <attvalue for="weight" value="17.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="湘南" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="福岡" weight="4.0">
+        <attvalues>
+          <attvalue for="weight" value="4.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="東京Ｖ" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="甲府" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="鳥栖" weight="2.0">
+        <attvalues>
+          <attvalue for="weight" value="2.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="大分" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="札幌" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="千葉" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="山形" weight="8.0">
+        <attvalues>
+          <attvalue for="weight" value="8.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="京都" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="仙台" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="Ｃ大阪" weight="7.0">
+        <attvalues>
+          <attvalue for="weight" value="7.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="Ｆ東京" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="新潟" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="大宮" weight="22.0">
+        <attvalues>
+          <attvalue for="weight" value="22.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="神戸" weight="18.0">
+        <attvalues>
+          <attvalue for="weight" value="18.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="柏" weight="17.0">
+        <attvalues>
+          <attvalue for="weight" value="17.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="広島" weight="19.0">
+        <attvalues>
+          <attvalue for="weight" value="19.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="横浜FM" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="浦和" weight="12.0">
+        <attvalues>
+          <attvalue for="weight" value="12.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="清水" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="磐田" weight="19.0">
+        <attvalues>
+          <attvalue for="weight" value="19.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="名古屋" weight="19.0">
+        <attvalues>
+          <attvalue for="weight" value="19.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="鹿島" weight="18.0">
+        <attvalues>
+          <attvalue for="weight" value="18.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="川崎Ｆ" target="Ｇ大阪" weight="21.0">
+        <attvalues>
+          <attvalue for="weight" value="21.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="湘南" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="福岡" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="東京Ｖ" weight="5.0">
+        <attvalues>
+          <attvalue for="weight" value="5.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="甲府" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="鳥栖" weight="3.0">
+        <attvalues>
+          <attvalue for="weight" value="3.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="大分" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="札幌" weight="18.0">
+        <attvalues>
+          <attvalue for="weight" value="18.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="千葉" weight="6.0">
+        <attvalues>
+          <attvalue for="weight" value="6.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="山形" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="京都" weight="11.0">
+        <attvalues>
+          <attvalue for="weight" value="11.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="仙台" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="Ｃ大阪" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="Ｆ東京" weight="13.0">
+        <attvalues>
+          <attvalue for="weight" value="13.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="新潟" weight="14.0">
+        <attvalues>
+          <attvalue for="weight" value="14.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="大宮" weight="24.0">
+        <attvalues>
+          <attvalue for="weight" value="24.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="神戸" weight="21.0">
+        <attvalues>
+          <attvalue for="weight" value="21.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="柏" weight="18.0">
+        <attvalues>
+          <attvalue for="weight" value="18.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="広島" weight="16.0">
+        <attvalues>
+          <attvalue for="weight" value="16.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="横浜FM" weight="9.0">
+        <attvalues>
+          <attvalue for="weight" value="9.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="浦和" weight="18.0">
+        <attvalues>
+          <attvalue for="weight" value="18.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="清水" weight="21.0">
+        <attvalues>
+          <attvalue for="weight" value="21.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="磐田" weight="20.0">
+        <attvalues>
+          <attvalue for="weight" value="20.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="名古屋" weight="17.0">
+        <attvalues>
+          <attvalue for="weight" value="17.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="鹿島" weight="10.0">
+        <attvalues>
+          <attvalue for="weight" value="10.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Ｇ大阪" target="川崎Ｆ" weight="23.0">
+        <attvalues>
+          <attvalue for="weight" value="23.0"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
